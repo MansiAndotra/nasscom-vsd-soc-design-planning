@@ -8,5 +8,11 @@ There are two modes to run the complete flow : Autonomus Mode { using .tcl where
 
 ![image](https://github.com/user-attachments/assets/abdfe047-0fe9-49af-9661-5b948f41a33b)
 Openlane is our working directory. Envoke all tools in this directory.
-To run in interactive mode (step by step mode)
+To run in interactive mode (step by step mode): 
+docker
 bash-4.2$ ./flow.tcl -interactive
+Package import and check
+% package require openlane
+Prepare design
+To prepare and setup the design
+% prep -design picorv32a
