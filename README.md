@@ -40,8 +40,13 @@ Calculating Clock Ratio : no. of d flip flop/ no. of cells = 1613/14876 = 0.1084
 ![image](https://github.com/user-attachments/assets/912ece71-22bf-4b3c-b8bd-5e225d004b0f)
 ![image](https://github.com/user-attachments/assets/bce94577-6022-4f01-aebc-6742b29b2bbb)
 ![image](https://github.com/user-attachments/assets/7163dc96-ac4b-4857-bf25-f6686783024e)
+placemnet 
+![image](https://github.com/user-attachments/assets/9f85fad8-1048-430a-aab2-47b3393fd867)
+![image](https://github.com/user-attachments/assets/07574949-373a-4748-8fb0-b6e270a35d79)
 
-
+![image](https://github.com/user-attachments/assets/343ab449-3ddf-4798-9d35-7643cc15e057)
+Github path for custom layout design flow
+https://github.com/nickson-jose/vsdstdcelldesign
 
 ![image](https://github.com/user-attachments/assets/01c6e6e6-f637-41ad-b493-3a6a66d379a9)
 
