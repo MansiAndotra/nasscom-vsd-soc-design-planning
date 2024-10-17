@@ -50,7 +50,7 @@ placemnet
 Github path for custom layout design flow
 https://github.com/nickson-jose/vsdstdcelldesign
 
-![image](https://github.com/user-attachments/assets/01c6e6e6-f637-41ad-b493-3a6a66d379a9)
+
 
 
 
